@@ -13,6 +13,7 @@ nix develop
 ## Nix flake with docker export example
 
 ### To run
+copy the flake_with_docker_export.nix into flake.nix
 
 ```
 nix build .#myAppImage
